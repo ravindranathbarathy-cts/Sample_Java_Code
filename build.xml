@@ -1,0 +1,2 @@
+javac HelloWorld/Main.java
+jar cfme Main.jar Manifest.txt HelloWorld/Main.class

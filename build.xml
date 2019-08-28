@@ -1,8 +1,3 @@
-javac HelloWorld/Main.java
-jar cfme Main.jar Manifest.txt HelloWorld/Main.class
-
-
-
 <project name="Sample_Java_Code" default="dist" basedir=".">
   <description>
     simple example build file
